@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 17c1c8336e5866d4cb40a31c0d313d57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1422804706863139549
+    second: 4_Andrade_CharacterCompletePNG_0
+  - first:
+      213: -8328126946700560940
+    second: 4_Andrade_CharacterCompletePNG_1
+  - first:
+      213: 6493469319014384387
+    second: 4_Andrade_CharacterCompletePNG_2
+  - first:
+      213: 8807117140021003373
+    second: 4_Andrade_CharacterCompletePNG_3
+  - first:
+      213: 3702622487321864155
+    second: 4_Andrade_CharacterCompletePNG_4
+  - first:
+      213: 2675565205199593500
+    second: 4_Andrade_CharacterCompletePNG_5
+  - first:
+      213: -465189367339133665
+    second: 4_Andrade_CharacterCompletePNG_6
+  - first:
+      213: -1544734017266021063
+    second: 4_Andrade_CharacterCompletePNG_7
+  - first:
+      213: 5984781142888946678
+    second: 4_Andrade_CharacterCompletePNG_8
+  - first:
+      213: -1034120881884595806
+    second: 4_Andrade_CharacterCompletePNG_9
+  - first:
+      213: 989199830576282543
+    second: 4_Andrade_CharacterCompletePNG_10
+  - first:
+      213: -8641617193778694847
+    second: 4_Andrade_CharacterCompletePNG_11
+  - first:
+      213: 3360280498801367657
+    second: 4_Andrade_CharacterCompletePNG_12
+  - first:
+      213: 8104430414546576736
+    second: 4_Andrade_CharacterCompletePNG_13
+  - first:
+      213: 6066586283354015649
+    second: 4_Andrade_CharacterCompletePNG_14
+  - first:
+      213: 5503217297427282540
+    second: 4_Andrade_CharacterCompletePNG_15
+  - first:
+      213: -5563924777650339518
+    second: 4_Andrade_CharacterCompletePNG_16
+  - first:
+      213: -2331076854084762526
+    second: 4_Andrade_CharacterCompletePNG_17
+  - first:
+      213: 2560646559241593703
+    second: 4_Andrade_CharacterCompletePNG_18
+  - first:
+      213: -8086466595976756044
+    second: 4_Andrade_CharacterCompletePNG_19
+  - first:
+      213: -386071630409017216
+    second: 4_Andrade_CharacterCompletePNG_20
+  - first:
+      213: 4040554220958002229
+    second: 4_Andrade_CharacterCompletePNG_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddac451b751deb310800000000000000
+      internalID: 1422804706863139549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5fd819aac8c6c80800000000000000
+      internalID: -8328126946700560940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30300c711ff6d1a50800000000000000
+      internalID: 6493469319014384387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64c432706a293a70800000000000000
+      internalID: 8807117140021003373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7613ee88b526330800000000000000
+      internalID: 3702622487321864155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10215dd064812520800000000000000
+      internalID: 2675565205199593500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15567e2cb05b89f0800000000000000
+      internalID: -465189367339133665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d856c7890009ae0800000000000000
+      internalID: -1544734017266021063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb1a50adb63e0350800000000000000
+      internalID: 5984781142888946678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a97474798016a1f0800000000000000
+      internalID: -1034120881884595806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab306141085abd00800000000000000
+      internalID: 989199830576282543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145b9ef82fec21880800000000000000
+      internalID: -8641617193778694847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a5ab46f4d12ae20800000000000000
+      internalID: 3360280498801367657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065abedd588b87070800000000000000
+      internalID: 8104430414546576736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7c2922518d03450800000000000000
+      internalID: 6066586283354015649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a30f689fa5f5c40800000000000000
+      internalID: 5503217297427282540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2414827c4e7f8c2b0800000000000000
+      internalID: -5563924777650339518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2648428a3f956afd0800000000000000
+      internalID: -2331076854084762526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763ebee8a7e398320800000000000000
+      internalID: 2560646559241593703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b44eb2997917cf80800000000000000
+      internalID: -8086466595976756044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0885d9bc5e564aaf0800000000000000
+      internalID: -386071630409017216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c28ebf7aee21830800000000000000
+      internalID: 4040554220958002229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Andrade_CharacterCompletePNG_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3bc8988dafc0941a88d7606549cdb7
+      internalID: -467457700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0e4465178d7b3094c815c5d26cb420cf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      4_Andrade_CharacterCompletePNG_0: 1422804706863139549
+      4_Andrade_CharacterCompletePNG_1: -8328126946700560940
+      4_Andrade_CharacterCompletePNG_10: 989199830576282543
+      4_Andrade_CharacterCompletePNG_11: -8641617193778694847
+      4_Andrade_CharacterCompletePNG_12: 3360280498801367657
+      4_Andrade_CharacterCompletePNG_13: 8104430414546576736
+      4_Andrade_CharacterCompletePNG_14: 6066586283354015649
+      4_Andrade_CharacterCompletePNG_15: 5503217297427282540
+      4_Andrade_CharacterCompletePNG_16: -5563924777650339518
+      4_Andrade_CharacterCompletePNG_17: -2331076854084762526
+      4_Andrade_CharacterCompletePNG_18: 2560646559241593703
+      4_Andrade_CharacterCompletePNG_19: -8086466595976756044
+      4_Andrade_CharacterCompletePNG_2: 6493469319014384387
+      4_Andrade_CharacterCompletePNG_20: -386071630409017216
+      4_Andrade_CharacterCompletePNG_21: 4040554220958002229
+      4_Andrade_CharacterCompletePNG_22: -467457700
+      4_Andrade_CharacterCompletePNG_3: 8807117140021003373
+      4_Andrade_CharacterCompletePNG_4: 3702622487321864155
+      4_Andrade_CharacterCompletePNG_5: 2675565205199593500
+      4_Andrade_CharacterCompletePNG_6: -465189367339133665
+      4_Andrade_CharacterCompletePNG_7: -1544734017266021063
+      4_Andrade_CharacterCompletePNG_8: 5984781142888946678
+      4_Andrade_CharacterCompletePNG_9: -1034120881884595806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
