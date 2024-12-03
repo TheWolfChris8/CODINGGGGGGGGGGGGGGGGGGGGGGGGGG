@@ -1,0 +1,1674 @@
+fileFormatVersion: 2
+guid: e0b096e662a1ece48bad534915ba1877
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4277542748084499979
+    second: Closest Stars_0
+  - first:
+      213: 8021150955373157811
+    second: Closest Stars_1
+  - first:
+      213: -4313750458974122730
+    second: Closest Stars_2
+  - first:
+      213: -8700450123316895079
+    second: Closest Stars_3
+  - first:
+      213: 7467411209952478707
+    second: Closest Stars_4
+  - first:
+      213: -5827940099531221857
+    second: Closest Stars_5
+  - first:
+      213: -3792771987664895863
+    second: Closest Stars_6
+  - first:
+      213: -2570442335625193748
+    second: Closest Stars_7
+  - first:
+      213: -8597161819313156710
+    second: Closest Stars_8
+  - first:
+      213: -1107024988954772794
+    second: Closest Stars_9
+  - first:
+      213: -5703196128621719337
+    second: Closest Stars_10
+  - first:
+      213: -6608055233326832491
+    second: Closest Stars_11
+  - first:
+      213: 8196594248463879208
+    second: Closest Stars_12
+  - first:
+      213: 4920502271279644485
+    second: Closest Stars_13
+  - first:
+      213: 575271134492428472
+    second: Closest Stars_14
+  - first:
+      213: -1313855848618875518
+    second: Closest Stars_15
+  - first:
+      213: -2407241769043354014
+    second: Closest Stars_16
+  - first:
+      213: -3773228321652212204
+    second: Closest Stars_17
+  - first:
+      213: 2533595059638018048
+    second: Closest Stars_18
+  - first:
+      213: 1131410337317565635
+    second: Closest Stars_19
+  - first:
+      213: 3301824363565759848
+    second: Closest Stars_20
+  - first:
+      213: -365857383423013594
+    second: Closest Stars_21
+  - first:
+      213: 95520501605928527
+    second: Closest Stars_22
+  - first:
+      213: 1838929231213122647
+    second: Closest Stars_23
+  - first:
+      213: 535228821683797727
+    second: Closest Stars_24
+  - first:
+      213: -5162558780840897083
+    second: Closest Stars_25
+  - first:
+      213: 8142641809398898039
+    second: Closest Stars_26
+  - first:
+      213: 7694740183196347727
+    second: Closest Stars_27
+  - first:
+      213: -8386264268424795147
+    second: Closest Stars_28
+  - first:
+      213: -8005946106792844126
+    second: Closest Stars_29
+  - first:
+      213: 6643207780009546127
+    second: Closest Stars_30
+  - first:
+      213: 433207876047836968
+    second: Closest Stars_31
+  - first:
+      213: 3629342197568819707
+    second: Closest Stars_32
+  - first:
+      213: -5022976922193255848
+    second: Closest Stars_33
+  - first:
+      213: 4700092545802749447
+    second: Closest Stars_34
+  - first:
+      213: -5166600553086793427
+    second: Closest Stars_35
+  - first:
+      213: 5976444915425650714
+    second: Closest Stars_36
+  - first:
+      213: 2984310522038635868
+    second: Closest Stars_37
+  - first:
+      213: -3732248463616431359
+    second: Closest Stars_38
+  - first:
+      213: 6668065641772365227
+    second: Closest Stars_39
+  - first:
+      213: -7076992172448809866
+    second: Closest Stars_40
+  - first:
+      213: 7971594843306164701
+    second: Closest Stars_41
+  - first:
+      213: -6552467714276167249
+    second: Closest Stars_42
+  - first:
+      213: 283301164224112477
+    second: Closest Stars_43
+  - first:
+      213: -2425346148088114718
+    second: Closest Stars_44
+  - first:
+      213: -8391313982530479115
+    second: Closest Stars_45
+  - first:
+      213: 6341292130417931172
+    second: Closest Stars_46
+  - first:
+      213: -2583243101877372461
+    second: Closest Stars_47
+  - first:
+      213: -4386585776442883002
+    second: Closest Stars_48
+  - first:
+      213: 5619854948877346939
+    second: Closest Stars_49
+  - first:
+      213: 2249384751360548735
+    second: Closest Stars_50
+  - first:
+      213: -7650283925870445091
+    second: Closest Stars_51
+  - first:
+      213: -3192441215029383947
+    second: Closest Stars_52
+  - first:
+      213: 2707010668853815541
+    second: Closest Stars_53
+  - first:
+      213: -821371616513830508
+    second: Closest Stars_54
+  - first:
+      213: 5947247019774122176
+    second: Closest Stars_55
+  - first:
+      213: 3266056785208389356
+    second: Closest Stars_56
+  - first:
+      213: -6750282556524558915
+    second: Closest Stars_57
+  - first:
+      213: -5186905309291273293
+    second: Closest Stars_58
+  - first:
+      213: -1731045580707455936
+    second: Closest Stars_59
+  - first:
+      213: -1460875154931997931
+    second: Closest Stars_60
+  - first:
+      213: -2631044241993218883
+    second: Closest Stars_61
+  - first:
+      213: -6843480686519549185
+    second: Closest Stars_62
+  - first:
+      213: -3885571226567418469
+    second: Closest Stars_63
+  - first:
+      213: -1012146935908474013
+    second: Closest Stars_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Closest Stars_0
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1036
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06ff1b4772ec5b30800000000000000
+      internalID: 4277542748084499979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_1
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 987
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd5dc8cb4ad05f60800000000000000
+      internalID: 8021150955373157811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_2
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 990
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d4b2310da7224c0800000000000000
+      internalID: -4313750458974122730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_3
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 978
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99261b5b5bac14780800000000000000
+      internalID: -8700450123316895079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_4
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 980
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5ccf07ee291a760800000000000000
+      internalID: 7467411209952478707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_5
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 974
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94df237b5ffe1fa0800000000000000
+      internalID: -5827940099531221857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_6
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 960
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9808e21e8fd5d5bc0800000000000000
+      internalID: -3792771987664895863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_7
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 948
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce65f658054f35cd0800000000000000
+      internalID: -2570442335625193748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 945
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dc94300eeb0b880800000000000000
+      internalID: -8597161819313156710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 917
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cabed743ae03a0f0800000000000000
+      internalID: -1107024988954772794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 926
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d09e1d765d2ad0b0800000000000000
+      internalID: -5703196128621719337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 929
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594a469b6c87b44a0800000000000000
+      internalID: -6608055233326832491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_12
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 896
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c03b3aa0720c170800000000000000
+      internalID: 8196594248463879208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_13
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 908
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f302ceeb2294440800000000000000
+      internalID: 4920502271279644485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_14
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 870
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b805f48c06cbf700800000000000000
+      internalID: 575271134492428472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_15
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 864
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285a009111f34cde0800000000000000
+      internalID: -1313855848618875518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_16
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 852
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e10bb7d52c79ed0800000000000000
+      internalID: -2407241769043354014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_17
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 786
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ef97735dcc2abc0800000000000000
+      internalID: -3773228321652212204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_18
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 774
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000a86e7843292320800000000000000
+      internalID: 2533595059638018048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 767
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4b40315b393bf00800000000000000
+      internalID: 1131410337317565635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_20
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 762
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d311dc3cf62dd20800000000000000
+      internalID: 3301824363565759848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 747
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d0e9ee5a63ceaf0800000000000000
+      internalID: -365857383423013594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_22
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 749
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e0dfed36b535100800000000000000
+      internalID: 95520501605928527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_23
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 726
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7545a898460358910800000000000000
+      internalID: 1838929231213122647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_24
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 651
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde730e07c38d6700800000000000000
+      internalID: 535228821683797727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_25
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 657
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c597e72428ea58b0800000000000000
+      internalID: -5162558780840897083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_26
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 645
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d17768599700170800000000000000
+      internalID: 8142641809398898039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_27
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 617
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4da75a9d6539ca60800000000000000
+      internalID: 7694740183196347727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_28
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 626
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb2df784110e9b80800000000000000
+      internalID: -8386264268424795147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 599
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4e0b5ee6a25e090800000000000000
+      internalID: -8005946106792844126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_30
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 596
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f819498574a613c50800000000000000
+      internalID: 6643207780009546127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_31
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 587
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8279bbd9440130600800000000000000
+      internalID: 433207876047836968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 501
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1dc66ef730e5230800000000000000
+      internalID: 3629342197568819707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_33
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 503
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852afa52a1dca4ab0800000000000000
+      internalID: -5022976922193255848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_34
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 513
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706c80ca4451a3140800000000000000
+      internalID: 4700092545802749447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_35
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 486
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29cce8bb2c8c48b0800000000000000
+      internalID: -5166600553086793427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_36
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 470
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18a2ab6cf890f250800000000000000
+      internalID: 5976444915425650714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_37
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 446
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dc295bb966a6920800000000000000
+      internalID: 2984310522038635868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_38
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 422
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b25a0fbc3643cc0800000000000000
+      internalID: -3732248463616431359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_39
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 383
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba534dc4f5ab98c50800000000000000
+      internalID: 6668065641772365227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_40
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 387
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cf7fa5d1979cd90800000000000000
+      internalID: -7076992172448809866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_41
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 363
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd18990564bc0ae60800000000000000
+      internalID: 7971594843306164701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_42
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 336
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa17a509455f015a0800000000000000
+      internalID: -6552467714276167249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 348
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57680a68ec7ee300800000000000000
+      internalID: 283301164224112477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 324
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e198d14780775ed0800000000000000
+      internalID: -2425346148088114718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_45
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 333
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb908854601c8b80800000000000000
+      internalID: -8391313982530479115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 317
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a37a82589bc00850800000000000000
+      internalID: 6341292130417931172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_47
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 309
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9fe10e51a762cd0800000000000000
+      internalID: -2583243101877372461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 265
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644475a3a77bf13c0800000000000000
+      internalID: -4386585776442883002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_49
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 242
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b782e0dfc4cbdfd40800000000000000
+      internalID: 5619854948877346939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_50
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 239
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f960c738b673f10800000000000000
+      internalID: 2249384751360548735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 193
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd7c976d4bb4d590800000000000000
+      internalID: -7650283925870445091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_52
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 209
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc6bd311ab22b3d0800000000000000
+      internalID: -3192441215029383947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_53
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 195
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f869386cdb319520800000000000000
+      internalID: 2707010668853815541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_54
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 149
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491da19ddd6e994f0800000000000000
+      internalID: -821371616513830508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_55
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 137
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8132597add88250800000000000000
+      internalID: 5947247019774122176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_56
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceea992875d535d20800000000000000
+      internalID: 3266056785208389356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_57
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 95
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db586d487cd2252a0800000000000000
+      internalID: -6750282556524558915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_58
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 68
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b32b144a196408b0800000000000000
+      internalID: -5186905309291273293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_59
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c1cef37371af7e0800000000000000
+      internalID: -1731045580707455936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_60
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 41
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513a51169cde9bbe0800000000000000
+      internalID: -1460875154931997931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_61
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 51
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db448a7a337ac7bd0800000000000000
+      internalID: -2631044241993218883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff281cce2921701a0800000000000000
+      internalID: -6843480686519549185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_63
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 17
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d58fa5e8da31ac0800000000000000
+      internalID: -3885571226567418469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Closest Stars_64
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363eca079b124f1f0800000000000000
+      internalID: -1012146935908474013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
