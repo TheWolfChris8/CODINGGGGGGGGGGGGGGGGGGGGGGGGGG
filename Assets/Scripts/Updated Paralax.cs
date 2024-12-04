@@ -25,5 +25,15 @@ public class UpdatedParalax : MonoBehaviour
         float dist = (cam.transform.position.x * parallaxEffect);
         //move sprite based on cam position
         transform.position = new Vector3(startPos + dist, transform.position.y, transform.position.z);
+
+        //moving the background based on how far we have traveled. Changing the start position
+        //tells us how far we have moved relative to the camera
+        float temp = (cam.transform.position.x * (1 - parallaxEffect));
+
+        if(temp > startPos + length){
+            startPos += length; // startPos = startPos + length
+        }else if(temp < startPos - length){
+            startPos -= length; // startPos = startPos - length
+        }
     }
 }
