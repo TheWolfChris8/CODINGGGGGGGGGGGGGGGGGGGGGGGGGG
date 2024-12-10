@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlatformerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
-    public float jumpForce = 200f;
+    public float jumpForce = 20f;
     private bool isJumping = false;
     private Rigidbody2D rb;
     public Animator animator;
