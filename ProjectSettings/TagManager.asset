@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ground
   - Coin
+  - Portal
+  - GoToWin
   layers:
   - Default
   - TransparentFX

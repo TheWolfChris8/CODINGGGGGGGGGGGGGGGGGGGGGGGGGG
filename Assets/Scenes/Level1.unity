@@ -793,6 +793,23 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!1 &2101737593 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3219409720494196458, guid: 53bef30c47c615946be79eba95fbcbb5, type: 3}
+  m_PrefabInstance: {fileID: 7841853325908168803}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2101737594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2101737593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78925cadb15ea2b41af0b8bd1af72e42, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1435925524774663654
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8736,11 +8753,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4884191056260798776, guid: 535ab10306949304eb16844cddf6810d, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 61.53
+      value: 61.6
       objectReference: {fileID: 0}
     - target: {fileID: 4884191056260798776, guid: 535ab10306949304eb16844cddf6810d, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 9
+      value: 9.42
       objectReference: {fileID: 0}
     - target: {fileID: 4884191056260798776, guid: 535ab10306949304eb16844cddf6810d, type: 3}
       propertyPath: m_LocalPosition.z
@@ -9028,7 +9045,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3219409720494196458, guid: 53bef30c47c615946be79eba95fbcbb5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2101737594}
   m_SourcePrefab: {fileID: 100100000, guid: 53bef30c47c615946be79eba95fbcbb5, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
